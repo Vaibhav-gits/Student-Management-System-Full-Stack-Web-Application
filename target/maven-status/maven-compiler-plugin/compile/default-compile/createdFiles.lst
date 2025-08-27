@@ -1,0 +1,4 @@
+Backend\controller\model\repository\Student.class
+Backend\controller\model\repository\StudentRepository.class
+Backend\controller\model\repository\StudentController.class
+Backend\StudentManagementApplication.class
